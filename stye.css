@@ -5,3 +5,12 @@
 .top-margin{
     margin-top: 10px;
 }
+
+.color{
+    color: white;
+}
+
+.background{
+    background-color: white;
+    color: #337ab7;
+}
